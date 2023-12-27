@@ -1,0 +1,9 @@
+'''nome = input("qual o seu nome?")
+print (f'o seu nome é:'{nome})'''
+numero_1 = (input('Digite um número:'))
+numero_2 = (input('digite outro numero:'))
+
+int_numero1 = int(numero_1)
+int_numero2 = int(numero_2)
+
+print (f'a soma dos numeros é: {int_numero1 + int_numero2}')
