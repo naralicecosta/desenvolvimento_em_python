@@ -6,7 +6,7 @@ crie uma função fala se um  número é par ou impar.
 retorne se o número é par ou ímpar.
 '''
 
-def multiplicar(**args):
+def multiplicar(**args): #args argumentos nao nomeados
     total = 1
     for numero in args: #multiplicar todos os argumentps
         total *= numero
