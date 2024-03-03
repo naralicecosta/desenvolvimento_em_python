@@ -13,5 +13,5 @@ pessoa = {
     'nada': None,
 }
 
-with open('aula36.json', 'w') as arquivo:
+with open('aula36.json', 'r', encoding='utf8') as arquivo:
     json.dump(pessoa, arquivo, ensure_ascii=False, indent=2 )
