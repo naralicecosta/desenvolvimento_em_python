@@ -1,5 +1,5 @@
 import json
-#salvando dados oython em JSON com modulo json
+#salvando dados python em JSON com modulo json
 pessoa = {
     'nome': 'Naralice',
     'sobrenome': 'Cavalcante',
