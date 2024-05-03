@@ -11,6 +11,7 @@
 #       _NomeClasse__nome_attr_ou_method
 #       só DEVE ser usado na classe em que foi
 #       declarado.
+# modificadores de acesso são para protejer coisas dentro da classe
 from functools import partial
 
 
